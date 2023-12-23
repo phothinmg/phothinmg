@@ -1,1 +1,1 @@
-![banner](https://data.burmesedate.org/images/ghheader.png)
+![banner](https://data.burmesedate.org/images/ghh.png)
