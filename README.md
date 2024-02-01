@@ -1,4 +1,4 @@
-![banner](https://data.burmesedate.org/images/ghh.png)
+![banner](https://cdn.inovar.dev/images/ghh.png)
 
 
 
