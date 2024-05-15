@@ -30,7 +30,7 @@ $$ \large \color{orange} The \ fundamental \ rights \ of \ learning, \ explorati
 
 ---
 
-### Projects
+### Packages
 
 | Group                  	| Name                     	| About                                       	| Language                                                                                                                                                                                                             	| Readme/Docs                                                                         	| Packages                                                                                                                                                                                      	|
 |------------------------	|--------------------------	|---------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -42,5 +42,16 @@ $$ \large \color{orange} The \ fundamental \ rights \ of \ learning, \ explorati
 |                        	| showdown-mathjax         	| Showdown Extension for MathJax              	| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                            	| [README](https://github.com/phothinmg/showdown-mathjax/blob/main/README.md)         	| ![NPM Version](https://img.shields.io/npm/v/showdown-mathjax)                                                                                                                                 	|
 |                        	| showdown-admonitionBlock 	| Showdown Extension for Admonition-Block     	| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                            	| [README](https://github.com/phothinmg/showdown-admonitionBlock/blob/main/README.md) 	| ![NPM Version](https://img.shields.io/npm/v/showdown-admonitionblock)                                                                                                                         	|
 
+---
 
+### Live demo web applications
+
+| Sr 	| Name                                                   	| URL                                                          	|
+|----	|--------------------------------------------------------	|--------------------------------------------------------------	|
+| 1  	| Single page web application with HTML, CSS, Javascript 	| https://jsr.pages.dev/                                       	|
+| 2  	| Burmese Astrology Maharbote                            	| https://maharbote.vercel.app/                                	|
+| 3  	| Sunrise, sunset and time of day for Myanmar cities.    	| https://phothinmg.github.io/mm-suntime/                      	|
+| 4  	| Julian Day Number and Gregorian Converter(Online)      	| https://phothinmg.github.io/tojulian.html                    	|
+| 5  	| Random Ideas                                           	| https://yourideas.onrender.com/                              	|
+| 6  	| Webpack React Typescript Mdx                           	| https://webpack-react-typescript-mdx-boilerplate.vercel.app/ 	|
 
