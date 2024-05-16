@@ -17,7 +17,7 @@
 | julian-days-converter | Converting Julian and Gregorian  | [README](https://github.com/hinthar/julian-days-converter/blob/main/README.md)| NPM , JSR |
 | burmesedate-py | Burmese Calender API in Python | [API Docs](https://phothinmg.github.io/burmesedate-py/burmesedate.html) | PyPi |
 | array-json |  Node.js functions, which manage JSON Files | [API Docs](https://phothinmg.github.io/array-json/) | NPM |
-| mm-mark   | Convert Markdown to HTML | [API Docs](https://phothinmg.github.io/mm-mark/) | NPM |
+| mm-mark   | Convert Markdown to HTML | [API Docs](https://phothinmg.github.io/mm-mark/) | NPM , JSR |
 | showdown-prism | Showdown extension for Prism.Js | [README](https://github.com/phothinmg/showdown-prism/blob/main/README.md) | NPM |
 | showdown-mathjax | Showdown Extension for MathJax | [README](https://github.com/phothinmg/showdown-mathjax/blob/main/README.md) | NPM |
 |  showdown-admonitionBlock | Showdown Extension for Admonition-Block | [README](https://github.com/phothinmg/showdown-admonitionBlock/blob/main/README.md) | NPM |
