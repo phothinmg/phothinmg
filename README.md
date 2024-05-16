@@ -1,8 +1,6 @@
-# Pho Thin Maung
 
-### Amateur Developer
 
-_The  rights of learning,exploration,and creation  are inherent._
+## _The  rights of learning,exploration,and creation  are inherent._
 
 ---
 
