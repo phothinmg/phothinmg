@@ -1,8 +1,8 @@
-$$ \Huge Pho \ Thin \ Maung $$
+# Pho Thin Maung
 
-$$ \LARGE Amateur Developer $$
+### Amateur Developer
 
-$$ \large \color{orange} The \ fundamental \ rights \ of \ learning, \ exploration,\ and \ creation \ are \ inherent. $$
+_The  rights of learning,exploration,and creation  are inherent._
 
 ---
 
