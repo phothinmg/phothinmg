@@ -42,8 +42,6 @@ _The  rights of learning,exploration,and creation  are inherent._
 
 
 
-## Projects
 
-1. Burmese Lunation Number
 
 
