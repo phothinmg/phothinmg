@@ -18,9 +18,9 @@
 | burmesedate-py | Burmese Calender API in Python | [API Docs](https://phothinmg.github.io/burmesedate-py/burmesedate.html) | PyPi |
 | array-json |  Node.js functions, which manage JSON Files | [API Docs](https://phothinmg.github.io/array-json/) | NPM |
 | mm-mark   | Convert Markdown to HTML | [API Docs](https://phothinmg.github.io/mm-mark/) | NPM |
-| showdown-prism | Showdown extension for Prism.Js | [README](https://github.com/phothinmg/showdown-prism/blob/main/README.md) | ![NPM Version](https://img.shields.io/npm/v/showdown-prism) |
-| showdown-mathjax | Showdown Extension for MathJax | [README](https://github.com/phothinmg/showdown-mathjax/blob/main/README.md) | ![NPM Version](https://img.shields.io/npm/v/showdown-mathjax) |
-|  showdown-admonitionBlock | Showdown Extension for Admonition-Block | [README](https://github.com/phothinmg/showdown-admonitionBlock/blob/main/README.md) | ![NPM Version](https://img.shields.io/npm/v/showdown-admonitionblock)  |
+| showdown-prism | Showdown extension for Prism.Js | [README](https://github.com/phothinmg/showdown-prism/blob/main/README.md) | NPM |
+| showdown-mathjax | Showdown Extension for MathJax | [README](https://github.com/phothinmg/showdown-mathjax/blob/main/README.md) | NPM |
+|  showdown-admonitionBlock | Showdown Extension for Admonition-Block | [README](https://github.com/phothinmg/showdown-admonitionBlock/blob/main/README.md) | NPM |
 
 
 
