@@ -2,9 +2,11 @@
 
 ## _The  rights of learning,exploration,and creation  are inherent._
 
-<p><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px"></p>
+### About
 
-## Packages
+My teaching studies have been focused on modernizing units of measurement such as time, distance, weight, and volume that have been used in Burma for a long time.  Technical assistance with data collection and critical comments are cordially invited..
+
+### Packages
 
 | Sr| Name | About | Docs | Version |
 |---| ---- | ---- | ---- | ----- |
