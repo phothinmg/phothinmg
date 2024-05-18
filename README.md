@@ -3,9 +3,9 @@
 ## _The  rights of learning,exploration,and creation  are inherent._
 
 
-### My Skill
+# My Skill
 
-<a href="https://www.buymeacoffee.com/phothinmg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 120px !important;" ></a>
+![bmc](./img/bmcb.png) 
 
 
 
