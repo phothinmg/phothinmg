@@ -2,9 +2,12 @@
 
 ## _The  rights of learning,exploration,and creation  are inherent._
 
-### About
 
-My teaching studies have been focused on modernizing units of measurement such as time, distance, weight, and volume that have been used in Burma for a long time.  Technical assistance with data collection and critical comments are cordially invited..
+### My Skill
+
+<a href="https://www.buymeacoffee.com/phothinmg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 120px !important;" ></a>
+
+
 
 ### Packages
 
