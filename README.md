@@ -3,9 +3,7 @@
 ## _The  rights of learning,exploration,and creation  are inherent._
 
 
-# My Skill
 
-![bmc](./img/bmcb.png) 
 
 
 
