@@ -18,6 +18,7 @@
 | 5 | showdown-prism | Showdown extension for Prism.Js | [README](https://github.com/phothinmg/showdown-prism/blob/main/README.md) | ![NPM Version](https://img.shields.io/npm/v/showdown-prism?style=plastic) |
 | 6 | showdown-mathjax | Showdown Extension for MathJax | [README](https://github.com/phothinmg/showdown-mathjax/blob/main/README.md) |![NPM Version](https://img.shields.io/npm/v/showdown-mathjax?style=plastic) |
 | 7 |  showdown-admonitionBlock | Showdown Extension for Admonition-Block | [README](https://github.com/phothinmg/showdown-admonitionBlock/blob/main/README.md) | ![NPM Version](https://img.shields.io/npm/v/showdown-admonitionblock?style=plastic)|
+| 8 | noda-timezones | Noda Time Timezomes Info. | [API Docs](https://phothinmg.github.io/noda-timezones/index.html) | [![JSR](https://jsr.io/badges/@ptm/noda-timezones)](https://jsr.io/@ptm/noda-timezones) ![NPM Version](https://img.shields.io/npm/v/noda-timezones) |
 
 
 
